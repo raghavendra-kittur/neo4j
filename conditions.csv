@@ -1,0 +1,106 @@
+patient_id,condition
+1,Diabetes
+1,COPD
+1,Hypertension
+2,Heart Disease
+2,COPD
+2,COPD
+3,COPD
+3,Heart Disease
+3,Hypertension
+4,Diabetes
+4,Heart Disease
+4,Hypertension
+5,COPD
+5,Hypertension
+6,Asthma
+7,Asthma
+7,Diabetes
+8,Diabetes
+8,Heart Disease
+8,Diabetes
+9,Hypertension
+9,COPD
+10,Asthma
+10,Hypertension
+10,Heart Disease
+11,Hypertension
+11,Hypertension
+11,Hypertension
+12,Heart Disease
+13,Hypertension
+13,Diabetes
+14,Hypertension
+14,Heart Disease
+14,Heart Disease
+15,Hypertension
+15,Diabetes
+15,Asthma
+16,Heart Disease
+16,COPD
+17,Diabetes
+17,Diabetes
+18,Asthma
+18,Heart Disease
+18,COPD
+19,Hypertension
+20,Hypertension
+21,Diabetes
+22,Heart Disease
+23,COPD
+23,Hypertension
+23,Heart Disease
+24,Hypertension
+25,Asthma
+25,Diabetes
+25,Hypertension
+26,COPD
+26,Asthma
+26,Diabetes
+27,Diabetes
+27,COPD
+28,COPD
+29,Hypertension
+30,Heart Disease
+30,Asthma
+31,Hypertension
+31,COPD
+32,COPD
+33,Hypertension
+33,Diabetes
+34,Heart Disease
+34,Heart Disease
+35,Hypertension
+36,Diabetes
+36,Diabetes
+36,COPD
+37,Diabetes
+37,Heart Disease
+37,Heart Disease
+38,COPD
+38,Heart Disease
+38,Diabetes
+39,Heart Disease
+39,COPD
+40,Heart Disease
+40,Diabetes
+41,Heart Disease
+41,Diabetes
+41,Heart Disease
+42,Heart Disease
+42,COPD
+42,Diabetes
+43,Asthma
+43,Heart Disease
+44,Asthma
+44,Heart Disease
+44,Asthma
+45,Heart Disease
+46,Heart Disease
+47,Asthma
+47,Diabetes
+48,COPD
+49,Hypertension
+49,Hypertension
+50,Diabetes
+50,Asthma
