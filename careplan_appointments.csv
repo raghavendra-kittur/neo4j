@@ -1,0 +1,4 @@
+careplan_id,appointment_date,type,clinician_name
+CP1001,2025-04-01,Routine Checkup,Dr. Smith
+CP1001,2025-06-01,Follow-up Visit,Nurse Alice
+CP1002,2025-05-10,Cardiac Checkup,Dr. Patel
