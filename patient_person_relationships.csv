@@ -1,0 +1,4 @@
+patient_id,person_id,relationship_type
+2,201,MARRIED_TO
+2,202,FATHER_OF
+2,203,HAS_SIBLING
